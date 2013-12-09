@@ -1,5 +1,6 @@
 <?php
 //test
+//dfdf
 //branchtest
 define('test',100);
 $tiredqty=$_POST['tireqty'];
@@ -31,7 +32,9 @@ ENDD;
 				echo "you select c";
 			else
 				echo "no  you are wrong!!";
+//end
 			var_dump($_SERVER);
 		?>
 	</body>
 </html>
+
