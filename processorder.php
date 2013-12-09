@@ -2,7 +2,11 @@
 //test
 //branchtest
 //bendimerge
+<<<<<<< HEAD
 //branchadd
+=======
+//masterchange
+>>>>>>> master
 define('test',100);
 $tiredqty=$_POST['tireqty'];
 $oilqty=$_POST['oilqty'];
